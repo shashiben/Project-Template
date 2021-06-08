@@ -1,0 +1,2 @@
+mixin MenuIcons {}
+mixin DashboardIcons {}
